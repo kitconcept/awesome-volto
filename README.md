@@ -10,4 +10,12 @@ We used react-router-google-analytics before. Though, we moved to react-ga becau
  
 ### Matomo (aka Piwik)
 
+todo
 
+## Image Gallery
+
+todo
+
+## Slider
+
+todo
